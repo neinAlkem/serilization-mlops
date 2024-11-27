@@ -1,0 +1,7 @@
+onnx==1.16.1
+onnxruntime
+torch
+scikit-learn
+skl2onnx
+joblib
+pandas

@@ -1,0 +1,11 @@
+Results (Save Time, Load Time):
+- Pickle: Save Time = 0.0010s, Load Time = 0.0117s
+- Joblib: Save Time = 0.0022s, Load Time = 0.0095s
+- ONNX: Save Time = 0.0421s, Load Time = 0.0243s
+- PyTorch: Save Time = 0.0060s, Load Time = 0.0223s
+
+File Sizes (Bytes):
+- Pickle: 994 bytes
+- Joblib: 1191 bytes
+- ONNX: 1942 bytes
+- PyTorch: 7216 bytes
